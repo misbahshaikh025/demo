@@ -1,3 +1,3 @@
 # demo
 This is my first Git Repository.
-Author - Misbah Shaikj
+Author - Misbah Shaikh
